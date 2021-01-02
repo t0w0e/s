@@ -9,7 +9,7 @@ env:
   comment: "moon0"
   url: "https://sv1.romsforever.cc/N3DS/Pokemon%20Ultra%20Moon%20(USA)%20(En,Ja,Fr,De,Es,It,Zh,Ko).zip"
   file_name: "Moon.zip"
-  piece_size: 19 # Check the README.md for recommended piece size
+  piece_size: 2^21 
       
 jobs:
   create:
